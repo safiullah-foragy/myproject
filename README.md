@@ -1,2 +1,2 @@
 # myproject
-git repository
+my git repository
